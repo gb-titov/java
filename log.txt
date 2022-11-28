@@ -1,0 +1,38 @@
+нояб. 28, 2022 12:53:33 PM S2.Ex1 LogSmtx
+INFO: log msg
+нояб. 28, 2022 12:56:31 PM S2.Ex1 LogSmtx
+INFO: log msg
+нояб. 28, 2022 12:56:31 PM S2.Ex1 LogSmtx
+WARNING: log msg
+нояб. 28, 2022 12:56:31 PM S2.Ex1 LogSmtx
+INFO: log msg
+нояб. 28, 2022 12:56:32 PM S2.Ex1 LogSmtx
+INFO: log msg
+нояб. 28, 2022 12:56:32 PM S2.Ex1 LogSmtx
+WARNING: log msg
+нояб. 28, 2022 12:56:32 PM S2.Ex1 LogSmtx
+INFO: log msg
+нояб. 28, 2022 12:56:33 PM S2.Ex1 LogSmtx
+INFO: log msg
+нояб. 28, 2022 12:56:33 PM S2.Ex1 LogSmtx
+WARNING: log msg
+нояб. 28, 2022 12:56:33 PM S2.Ex1 LogSmtx
+INFO: log msg
+нояб. 28, 2022 12:56:35 PM S2.Ex1 LogSmtx
+INFO: log msg
+нояб. 28, 2022 12:56:35 PM S2.Ex1 LogSmtx
+WARNING: log msg
+нояб. 28, 2022 12:56:35 PM S2.Ex1 LogSmtx
+INFO: log msg
+нояб. 28, 2022 12:58:10 PM S2.Ex1 LogSmtx
+INFO: log msg
+нояб. 28, 2022 12:58:10 PM S2.Ex1 LogSmtx
+WARNING: log msg
+нояб. 28, 2022 12:58:10 PM S2.Ex1 LogSmtx
+SEVERE: log msg
+нояб. 28, 2022 12:58:11 PM S2.Ex1 LogSmtx
+INFO: log msg
+нояб. 28, 2022 12:58:11 PM S2.Ex1 LogSmtx
+WARNING: log msg
+нояб. 28, 2022 12:58:11 PM S2.Ex1 LogSmtx
+SEVERE: log msg

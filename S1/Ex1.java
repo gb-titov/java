@@ -1,4 +1,4 @@
-package HW.S1;
+package S1;
 
 public class Ex1 {
 

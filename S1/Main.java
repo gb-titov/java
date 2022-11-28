@@ -1,4 +1,4 @@
-package HW.S1;
+package S1;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
