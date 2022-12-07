@@ -18,14 +18,14 @@ public class Ex1 {
         
     }
 
-    public void LogSmtx(String msg){
+    public void logSmtx(String msg){
         logger.info(msg);
         logger.warning(msg);
         logger.severe(msg);
         
     }
 
-    public ArrayList<String> GetInfoLog(){
+    public ArrayList<String> getInfoLog(){
         var list = new ArrayList<String>();
         try {
             File file = new File("log.txt");
