@@ -10,21 +10,19 @@ public class Ex2<T> {
     }
 
     public void enqueue(T item){
-        list.add(item);
+        list.addLast(item);
     }
 
     public T first(){
         if(list.size() == 0)
             return null;
-        return list.get(0);
+        return list.getFirst();
     }
 
     public T dequeue(){
         if(list.size() == 0)
             return null;
-        T item = list.get(0);
-        list.remove(0);
-        return item;
+        return list.removeFirst();
     }
 
     public void printQueueToConsole(){
