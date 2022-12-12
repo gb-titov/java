@@ -4,7 +4,7 @@ import java.util.LinkedList;
 
 public class Ex2<T> {
     private LinkedList<T> list;
-
+    
     public Ex2() {
         list = new LinkedList<T>();
     }
